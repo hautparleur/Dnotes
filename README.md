@@ -1,4 +1,6 @@
 Dnotes
 ======
 
-A text editor.
+Dnotes is a simple text editor.
+
+Dnotes est un éditeur de texte simple.
